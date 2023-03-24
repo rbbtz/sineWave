@@ -2,7 +2,9 @@
 
 Copy the .js file and paste into the editor playground at https://editor.p5js.org or open the .html file for the experience in a web browser.
 
-This p5.js script creates an interactive 3D grid of triangles that react to the mouse position. The grid is made up of columns and rows, and the color and height of each triangle are influenced by the distance to the mouse cursor. Summary of the script's functions:
+This p5.js script creates an interactive 3D grid of triangles that react to the mouse position. The grid is made up of columns and rows, and the color and height of each triangle are influenced by the distance to the mouse cursor.
+
+Summary of the script's functions:
 
 1.	Variables angle, w, cols, and rows are declared to store angle, grid cell width, number of columns, and number of rows, respectively.
 
